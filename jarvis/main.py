@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from jarvis.brain import JarvisBrain, OpenAILLM
+from brain import JarvisBrain, OpenAILLM
 from jarvis.commands import CommandExecutor
 from jarvis.config import AssistantConfig
 from jarvis.memory import MemoryStore
